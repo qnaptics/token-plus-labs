@@ -1,0 +1,19 @@
+# Day 1 Environment Snapshot
+
+- Date: 2026-10-18 17:24:20 PDT
+- Python: Python 3.11.4
+- Node.js: v26.0.0
+- npm: 11.12.1
+- Git: git version 2.54.0
+
+## Python SDK
+Name: python-dotenv
+Version: 1.2.3
+
+## TypeScript SDK
+frontier-llm-lab@1.0.0 /Users/ashutosh/projects/token-plus-labs/frontier-llm-lab
+├── dotenv@18.0.8
+├── openai@7.38.0
+├── tsx@4.23.15
+└── typescript@7.0.2
+
