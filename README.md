@@ -38,14 +38,6 @@ Token Plus Labs is a practical playground for understanding and evaluating the l
 - Each experiment directory should include:
   - `README.md` describing purpose, dataset, model, and metrics
   - `config.yaml` with all hyperparameters and seeds
-<<<<<<< HEAD
-=======
-
-## Reproducibility & conventions
-- Each experiment directory should include:
-  - `README.md` describing purpose, dataset, model, and metrics
-  - `config.yaml` with all hyperparameters and seeds
->>>>>>> origin/main
   - `run.sh` or `run.py` to reproduce the experiment
   - `results/` with artifacts and a summary `results.csv`
 - Use deterministic seeds and record environment (OS, Python, package versions)
@@ -65,8 +57,3 @@ This project is available under the MIT License. See `LICENSE` for details.
 
 ## Contact
 Maintained by Token Plus Labs — open issues and PRs are welcome.
-<<<<<<< HEAD
-=======
-
-                                                                                   
->>>>>>> origin/main
